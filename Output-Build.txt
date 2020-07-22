@@ -1,0 +1,3 @@
+﻿1>------ Build started: Project: Tema1, Configuration: Debug Any CPU ------
+1>  Tema1 -> D:\Facultate\PAW\Tema1\Tema1\bin\Debug\Tema1.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
