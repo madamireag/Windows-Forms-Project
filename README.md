@@ -1,6 +1,6 @@
 # Windows-Applications-Programming-Project
-Proiect pentru materia PAW pentru facultate
-Tema: Pariuri Sportive
+Proiect pentru materia PAW pentru facultate 
+Tema: Pariuri Sportive <br>
 Cerinte proiect:
 1. Declarare/implementare entități
 2. Creare formulare care să permită utilizatorului adăugarea, actualizarea, ștergerea datelor
